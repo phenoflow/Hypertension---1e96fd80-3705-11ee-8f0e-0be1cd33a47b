@@ -1,0 +1,72 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/hypertension---primary.py
+inputModule3:
+  class: File
+  path: python/hypertension-resolved---primary.py
+inputModule4:
+  class: File
+  path: python/hypertension-control---primary.py
+inputModule5:
+  class: File
+  path: python/hypertension-treatment---primary.py
+inputModule6:
+  class: File
+  path: python/antihypertensive-hypertension---primary.py
+inputModule7:
+  class: File
+  path: python/hypertension-review---primary.py
+inputModule8:
+  class: File
+  path: python/hypertension-therapy---primary.py
+inputModule9:
+  class: File
+  path: python/essential-hypertension---primary.py
+inputModule10:
+  class: File
+  path: python/heartrenal-hypertension---primary.py
+inputModule11:
+  class: File
+  path: python/secondary-hypertension---primary.py
+inputModule12:
+  class: File
+  path: python/hypertension-malignant---primary.py
+inputModule13:
+  class: File
+  path: python/renovascular-hypertension---primary.py
+inputModule14:
+  class: File
+  path: python/hypertension-benign---primary.py
+inputModule15:
+  class: File
+  path: python/hypertension-childbirth---primary.py
+inputModule16:
+  class: File
+  path: python/hypertension-childbth---primary.py
+inputModule17:
+  class: File
+  path: python/hypertension-eclampsia---primary.py
+inputModule18:
+  class: File
+  path: python/hypertension-compl---primary.py
+inputModule19:
+  class: File
+  path: python/hypertension-reaction---primary.py
+inputModule20:
+  class: File
+  path: python/hypertension-history---primary.py
+inputModule21:
+  class: File
+  path: python/hypertension---secondary.py
+inputModule22:
+  class: File
+  path: python/hypertension-heart---secondary.py
+inputModule23:
+  class: File
+  path: python/renal-hypertension---secondary.py
+inputModule24:
+  class: File
+  path: python/output-cases.py
